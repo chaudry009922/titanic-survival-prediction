@@ -21,7 +21,7 @@ Features
 - Model evaluation using accuracy, precision, recall, and F1-score
 - Visualizations (e.g., survival by gender)
 
-## 📊 Sample Visualization
+## Sample Visualization
 
 ![Survival by Gender](sample_output.png) <!-- You can add this if you export a plot -->
 
